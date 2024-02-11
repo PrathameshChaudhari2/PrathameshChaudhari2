@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, Prathamesh Chaudhari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prathamesh Chaudhari</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Techie+Nerd)](https://git.io/typing-svg)
 
