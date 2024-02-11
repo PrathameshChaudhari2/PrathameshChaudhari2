@@ -38,10 +38,10 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)](https://github.com/prathameshchaudhari2)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,springboot,express,mongo,mysql,firebase,aws,gcp)](https://github.com/prathameshchaudhari2)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/prathameshchaudhari2)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/prathameshchaudhari2)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,idea)](https://github.com/prathameshchaudhari2)
 
 <hr>
 
