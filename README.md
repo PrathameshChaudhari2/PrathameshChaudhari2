@@ -1,4 +1,6 @@
 # I'm [Prathamesh Chaudhari](https://github.com/prathameshchaudhari2)👋
+<h1 align="center">Hi 👋, Prathamesh Chaudhari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Techie+Nerd)](https://git.io/typing-svg)
 
@@ -39,6 +41,8 @@
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/prathameshchaudhari2)
+<p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,idea)](https://github.com/prathameshchaudhari2)
