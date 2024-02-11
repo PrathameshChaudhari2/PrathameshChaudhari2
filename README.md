@@ -1,4 +1,4 @@
-# I'm [Prathamesh Chaudhari](https://github.com/prathameshchaudhari2)👋
+
 <h1 align="center">Hi 👋, Prathamesh Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
